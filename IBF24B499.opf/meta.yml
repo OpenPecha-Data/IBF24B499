@@ -1,0 +1,27 @@
+id: IBF24B499
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:45:36.583183'
+last_modified: '2022-05-31T06:45:36.583208'
+parser: null
+source_metadata:
+  title: Pari Lobzang Rabsal
+  language: bo
+  description: 'Texts by and about Pari Lobzang Rabsal (dpa'' ris blo bzang rab gsal,
+    1840–c.1912), the Gelugpa scholar famous for his opposition to Jamgön Mipham''s
+    interpretation of Madhyamaka philosophy:'
+  volume:
+    f4504:
+      title: An Appeal for the Prosperity of Teaching and Studying the Five Major
+        Scriptures
+      base_file: f4504.txt
+      order: 1
+      parent: Summoning Prosperity
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
